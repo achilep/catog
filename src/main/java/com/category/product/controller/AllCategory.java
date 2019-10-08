@@ -22,6 +22,8 @@ public class AllCategory {
         this.contactService = contactService;
     }*/
 
+
+
     @GetMapping("/category")
     public ResponseEntity<List<CategoryDTO>> generateCategory(){
         return ResponseEntity.ok(categoryservice.generate());
