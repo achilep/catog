@@ -11,7 +11,7 @@
 	<groupId>com.catalog</groupId>
 	<artifactId>category-and-product</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<!--<packaging>war</packaging>-->
 	<name>category-and-product</name>
 	<description>application that handle category and product</description>
 
